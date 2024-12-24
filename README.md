@@ -5,7 +5,7 @@
 ## Features
 
 - **GPA Calculator**: Calculate your Grade Point Average (GPA) for the semester or cumulative.
-- **Final Grade Calculator**: Determine the score you need on your final exam to achieve your target grad.
+- **Final Grade Calculator**: Determine the score you need on your final exam to achieve your target grade.
 - **User-Friendly Interface**: Designed to be intuitive and accessible for all users.
 - **Mobile-Friendly**: Works seamlessly on desktops, tablets, and mobile devices.
 
